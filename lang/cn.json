@@ -1242,7 +1242,7 @@
   "CoC7.InvestigatorWizard.OccupationPickThisMany": "{count} of the following skill(s)",
   "CoC7.InvestigatorWizard.OccupationPersonalThisMany": "{count} personal skill(s)",
   "CoC7.InvestigatorWizard.CharacterAvatarImage": "Avatar Image",
-  "CoC7.InvestigatorWizard.CharacterTokenImage": "Token Image",
+  "CoC7.InvestigatorWizard.CharacterTokenImage": "角色指示物",
   "CoC7.InvestigatorWizard.OccupationDefaultSkills": "All {count} of the following skill(s)",
   "CoC7.InvestigatorWizard.SkillSpendOccupationCountIncorrect": "You have selected {count} of {max} occupation skills, check with your Keeper before removing standard occupation skills.",
   "CoC7.InvestigatorWizard.ArchetypeDefaultSkills": "All {count} of the following skill(s)",
